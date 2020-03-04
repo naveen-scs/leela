@@ -23,7 +23,8 @@ project:
 # Configuration settings for new git repository.
 git:
   default_branch: master
-  remotes: {  }
+  remotes:
+    cloud: 's5e5f5cbb11865@svn-2420.devcloud.hosting.acquia.com:s5e5f5cbb11865.git'
 deploy:
   # When manually deploying a tag, also tag the source repository.
   tag_source: true
