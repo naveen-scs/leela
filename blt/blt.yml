@@ -75,3 +75,11 @@ modules:
     uninstall:
       - devel
       - views_ui
+disable-targets:
+  tests:
+    behat:
+      run: true
+    phpcs:
+      sniff:
+        all: true
+        files: true
