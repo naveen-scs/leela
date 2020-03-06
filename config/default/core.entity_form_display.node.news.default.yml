@@ -4,6 +4,7 @@ status: true
 dependencies:
   config:
     - field.field.node.news.body
+    - field.field.node.news.field_title
     - node.type.news
   module:
     - path
@@ -29,6 +30,14 @@ content:
     region: content
     settings: {  }
     third_party_settings: {  }
+  field_title:
+    weight: 122
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+    type: string_textfield
+    region: content
   path:
     type: path
     weight: 30
