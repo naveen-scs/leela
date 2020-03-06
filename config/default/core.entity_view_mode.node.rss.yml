@@ -1,13 +1,9 @@
-uuid: 9d5ca80a-0dca-4a4c-a76b-9c1408522b38
+uuid: 922d35cd-792f-4105-84af-ca5110c48c5e
 langcode: en
 status: false
 dependencies:
   module:
-    - lightning_core
     - node
-third_party_settings:
-  lightning_core:
-    internal: true
 _core:
   default_config_hash: vlYzr-rp2f9NMp-Qlr4sFjlqRq-90mco5-afLNGwCrU
 id: node.rss

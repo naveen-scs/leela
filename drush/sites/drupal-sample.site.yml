@@ -4,3 +4,9 @@ local:
     host: local.drupal-sample.com
     user: vagrant
     ssh: { options: '-o StrictHostKeyChecking=no -o PasswordAuthentication=no -i $HOME/.vagrant.d/insecure_private_key' }
+dev:
+    root: /var/www/html/s5e5f5cbb11865.dev/docroot
+    uri: 's5e5f5cbb11865gyu3nhsxvc.devcloud.acquia-sites.com'
+    host: s5e5f5cbb11865gyu3nhsxvc.ssh.devcloud.acquia-sites.com
+    user: s5e5f5cbb11865.dev
+    ssh: { options: '-p 22' }

@@ -1,6 +1,6 @@
-uuid: 69c8319b-3080-4323-ae7d-aae23f4a44a2
-name: 'BLTed 10'
-mail: no-reply@acquia.com
+uuid: 60321833-3bd8-44cf-b70a-a2b6b12d6089
+name: Leela
+mail: naveenkumarnk01@gmail.com
 slogan: ''
 page:
   403: ''
@@ -11,4 +11,4 @@ weight_select_max: 100
 langcode: en
 default_langcode: en
 _core:
-  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
+  default_config_hash: yTxtFqBHnEWxQswuWvkjE8mKw2t8oKuCL1q8KnfHuGE
