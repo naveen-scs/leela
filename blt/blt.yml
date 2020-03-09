@@ -83,3 +83,5 @@ disable-targets:
       sniff:
         all: true
         files: true
+cloud:
+  appId: 4e196456-63b4-4375-a0b3-37885160cad6
